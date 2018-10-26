@@ -1,5 +1,5 @@
 # ethereum-Homework1
-(20%) 1. Please compare hash function and cryptographic hash function and give an example.
+### (20%) 1. Please compare hash function and cryptographic hash function and give an example.
 1.cryptographic hash function是hash function的一種。但hash function不是cryptographic hash function。
 2.cryptographic hash function需要private key，而且可以透過private key解密得到原文(cryptographic hash function可逆) 
 3.hash function不需要有key，也無法逆向解出原始輸入(hash function不可逆) 
